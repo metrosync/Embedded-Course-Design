@@ -1,0 +1,5 @@
+../Core/Src/mpu6050.c:13:16:MPU6050_WriteReg	32	static
+../Core/Src/mpu6050.c:18:16:MPU6050_ReadRegs	32	static
+../Core/Src/mpu6050.c:23:9:MPU6050_ReadWhoAmI	16	static
+../Core/Src/mpu6050.c:32:9:MPU6050_Init	16	static
+../Core/Src/mpu6050.c:66:9:MPU6050_ReadData	32	static
